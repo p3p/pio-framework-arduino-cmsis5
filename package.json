@@ -1,0 +1,17 @@
+{
+  "name": "framework-arduino-cmsis5",
+  "version": "0.0.1",
+  "description": "Arduino Wiring-based Framework for the some LPC MCU series",
+  "keywords": [
+    "framework",
+    "arduino",
+    "nxp",
+    "lpc176x",
+    "lpc1768",
+    "cmsis5"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/p3p/pio-framework-arduino-cmsis5"
+  }
+}
